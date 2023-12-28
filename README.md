@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YigitHamza47
-- 👀 I’m interested in making games and makinh applicotiın
-- 🌱 I’m currently learning c#/c++ and godot
+- 👀 I’m interested in making games and making applıcatıon
+-   🌱 I’m currently learning c#/c++, godot,sfml and imgui
 - 📫 How to reach me yigithamzakesler8@gmail.com
 
 <!---
