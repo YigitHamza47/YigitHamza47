@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YigitHamza47
-- 👀 I’m interested in making games and making applıcatıon
--   🌱 I’m currently learning c#/c++, godot,sfml and imgui
+- 👀 I’m interested in making games and making application
+- 🌱 I’m currently learning c#/c++, Vulkan SDK
 - 📫 How to reach me yigithamzakesler8@gmail.com
 
 <!---
