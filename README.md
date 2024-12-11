@@ -20,7 +20,7 @@ Hi, I'm Yiğit Hamza Kesler, a 16-year-old high school student with a passion fo
  📂 Featured Project
 - [**OpenGL Rendering Project**](https://github.com/YigitHamza47/OpenGLengine) – Exploring 3D rendering with OpenGL, including a lighting system and 3D camera.
 
-Feel free to check out more on my [GitHub repositories](https://github.com/).
+Feel free to check out more on my [GitHub repositories](https://github.com/YigitHamza47?tab=repositories).
 
  🌟 Aspiration
 I dream of creating games that captivate players and building a **game engine** that combines innovation and efficiency, leveraging the best practices from modern graphics APIs.
