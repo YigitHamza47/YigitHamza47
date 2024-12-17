@@ -13,7 +13,7 @@ Hi, I'm Yiğit Hamza Kesler, a 16-year-old high school student with a passion fo
 - Learn **Vulkan** to harness its full potential for next-gen graphics programming.
 
  🚀 My Journey
-- Developed several 2D and 3D games using **Unity** and **Godot**.
+- Developed few 2D and 3D games using **Unity** and **Godot**.
 - Started building a solid foundation in custom rendering and game engine development.
 - Currently working on projects to deepen my understanding of graphics APIs.
 
